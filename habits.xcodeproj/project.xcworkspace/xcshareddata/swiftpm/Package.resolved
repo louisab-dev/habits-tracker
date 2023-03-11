@@ -1,0 +1,95 @@
+{
+  "pins" : [
+    {
+      "identity" : "functions-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/functions-swift",
+      "state" : {
+        "revision" : "c680cdfc53399376bdece299b1387b4fb3da514e",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "get",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Get",
+      "state" : {
+        "revision" : "12830cc64f31789ae6f4352d2d51d03a25fc3741",
+        "version" : "2.1.6"
+      }
+    },
+    {
+      "identity" : "getextensions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/binaryscraping/GetExtensions",
+      "state" : {
+        "revision" : "aa20f38721142eb6592b2c8f11179d32d7d70ae3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "gotrue-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/gotrue-swift",
+      "state" : {
+        "revision" : "9626a5833224b92126bd3f2350e3a8e2f4cb7cc5",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess",
+      "state" : {
+        "revision" : "84e546727d66f1adc5439debad16270d0fdd04e7",
+        "version" : "4.2.2"
+      }
+    },
+    {
+      "identity" : "postgrest-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/postgrest-swift",
+      "state" : {
+        "revision" : "a3c2d6a2ede94d2529edf063b056b1a66fd9cdc2",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "realtime-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/realtime-swift.git",
+      "state" : {
+        "revision" : "0b985c687fe963f6bd818ff77a35c27247b98bb4",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "storage-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/storage-swift.git",
+      "state" : {
+        "revision" : "6081d81a59f5b5abb6ec7ae1eacf4bff41e6ec8b",
+        "version" : "0.1.1"
+      }
+    },
+    {
+      "identity" : "supabase-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase/supabase-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "652d2dbb7bfb1f1901936493fd8a4d01db1cc4ed"
+      }
+    },
+    {
+      "identity" : "urlqueryencoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/URLQueryEncoder",
+      "state" : {
+        "revision" : "4ce950479707ea109f229d7230ec074a133b15d7",
+        "version" : "0.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
